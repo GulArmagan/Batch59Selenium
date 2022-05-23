@@ -9,6 +9,7 @@ public class C01_IlkClass {
 
         WebDriver driver=new ChromeDriver();
         driver.get("https://www.amazon.com/");
+        driver.get("son denem");
 
 
     }
